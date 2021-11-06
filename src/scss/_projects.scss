@@ -1,0 +1,9 @@
+.projects {
+    background-color: $color-lightPurple;
+    color: $color-black;
+    height: calc(100vh - 60px);
+
+    .project {
+        background-color: chartreuse;
+    }
+}

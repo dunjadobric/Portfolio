@@ -1,0 +1,26 @@
+// font-family: 'Source Sans Pro', sans-serif;
+// font-family: 'Roboto Condensed', sans-serif;
+@import 'reset';
+@import 'variables';
+@import 'header';
+@import 'about';
+@import 'projects';
+@import 'competences';
+@import 'contact';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: inherit;
+    padding: inherit;
+    height: 100%;
+    font-family: $font-text;
+
+    // .content {
+        
+    // }
+}
