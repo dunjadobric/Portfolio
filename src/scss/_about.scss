@@ -16,7 +16,7 @@
     }
 
     .aboutImg {
-        background-image: url("../assets/images/dunja.jpg");
+        background-image: url("../../public/images/dunja.jpg");
         background-repeat: no-repeat;
         background-size: contain;
         background-position: center;
@@ -27,7 +27,7 @@
         transform: rotate(10deg);
 
         &:hover {
-            background-image: url("../assets/images/dunja1.jpg");
+            background-image: url("../../public/images/dunja1.jpg");
             cursor: pointer;
         }
     }

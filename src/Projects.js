@@ -5,7 +5,7 @@ export default class Projects extends React.Component {
         return(
             <div className="projects">
                 <div className="project">
-                    <img src="assets/images/projects/project-tribute1.jpg"/>
+                    <img src="/images/projects/project-tribute1.jpg"/>
                 </div>
             </div>
         )
